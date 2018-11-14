@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2D Game Example",
+"dataUrl": "Sunnyside 1.16 WEBGL final.data.unityweb",
+"asmCodeUrl": "Sunnyside 1.16 WEBGL final.asm.code.unityweb",
+"asmMemoryUrl": "Sunnyside 1.16 WEBGL final.asm.memory.unityweb",
+"asmFrameworkUrl": "Sunnyside 1.16 WEBGL final.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
